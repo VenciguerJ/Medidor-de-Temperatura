@@ -25,4 +25,4 @@ elif tc in range(65, 71):
 elif tc == 71:
   print('bem passada')
 elif tc > 71:
-  print('puta merda irmão vai torra o bagui')
+  print('Calma aí, vai torrar')
